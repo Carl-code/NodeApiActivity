@@ -1,0 +1,7 @@
+folder to ignore
+node_modules/
+
+file to ignore
+.env
+
+//this file .gitignore is for files to ignore.
